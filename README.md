@@ -17,7 +17,8 @@ In this exploratory data analysis, python was the language of choice and several
 
 ## Results
 From the results, theft is highest crime that occurs in virtually all parts of Chicago and this crime usually happens on the street. 
-![LOCATIONS FOR THEFT](https://github.com/Antidote-cyber/Learning-Circle-24-EDA-On-Chicago-Crime-Dataset/assets/113939224/13999c31-d151-43ba-b3e5-ee3b00afaa7a)
+![Top Crimes and Location in 2021](https://github.com/Antidote-cyber/Learning-Circle-24-EDA-On-Chicago-Crime-Dataset/assets/55806427/9327a174-bfe8-4189-9090-77e7d57099fb)
+
 
 ## Resources
 1. https://data.cityofchicago.org/Public-Safety/Crimes-2001-to-Present/ijzp-q8t2/about_data
